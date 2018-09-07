@@ -1,1 +1,1 @@
-docker-compose run certbot renew
+docker-compose run --renew certbot renew
